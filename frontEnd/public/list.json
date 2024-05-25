@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "name":"Richesh Man in BabyLon",
+        "title": "Aah! Zindagi...",
+        "category":"Finance" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    },
+
+    {
+        "id":"2",
+        "name":"How to win friends and influence people",
+        "title": "Aah! Zindagi...",
+        "category":"communication" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    },
+
+    {
+        "id":"3",
+        "name":"Secrets of the Millionaire Mind",
+        "title": "Aah! Zindagi...",
+        "category":"Money" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    },
+
+    {
+        "id":"4",
+        "name":"Alice in the wonderland",
+        "title": "Aah! Zindagi...",
+        "category":"Animated" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    },
+
+    {
+        "id":"5",
+        "name":"Princess Cindrella",
+        "title": "Aah! Zindagi...",
+        "category":"Fairy" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    },
+
+    {
+        "id":"6",
+        "name":"Khul jaa sim sim",
+        "title": "Aah! Zindagi...",
+        "category":"Magic" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    },
+
+    {
+        "id":"7",
+        "name":"The Adventures of Hatim",
+        "title": "Aah! Zindagi...",
+        "category":"mythology" ,
+        "price" : "0",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715759703~exp=1715763303~hmac=989a74e7e240ca7ef8c4ca97197ea96f5cc560f13955f8e96f78aeb02f35f543&w=740"
+    }
+
+]
